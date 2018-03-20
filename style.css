@@ -1,0 +1,65 @@
+header{
+    background-color:#274e31;
+    text-align:center;
+    height:100px;
+}
+input[type="text"]{
+    height:20px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-size:20px;
+}
+.reg{
+    color:#274e32;
+    font-size:30px;
+    font-family: 'Poller One', cursive;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+.name{
+
+}
+label {
+        display: inline-block;
+        width: 100px;
+        text-align: right;
+        font-size:20px;
+}
+body {
+    margin: 0px;
+    background-color: #A4A4A4;
+    text-align:center;
+}
+
+.title{
+    font-size :55px;
+    color:#23da8e;
+    font-family: 'Poller One', cursive;
+}
+.submit{
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size:20px;
+}
+.body{
+    background-color: #b6c7bb;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    width: 1000px;
+    height:700px;
+    box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.3)
+}
+
+footer{
+    background-color:black;
+    height:40px;
+    text-align:center;
+}
+.footer{
+    line-height:40px;
+    color:#99b19e;
+    font-size:16px;
+    font-family: 'Hind', sans-serif;
+    margin:0;
+}
